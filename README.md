@@ -24,4 +24,4 @@ If you found the codes are useful, please cite our paper.
 
 
 ## Contact us 
-Please feel free to contact us with the email to W. Xu "xuwujiang dot xwj at mybank dot cn" or "swustimp at gmail dot com".
+Please feel free to contact us with the email to W. Xu "wujiang dot xu at rutgers dot edu" or "swustimp at gmail dot com".
